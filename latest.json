@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.0",
-  "displayVersion": "1.3",
-  "versionCode": 10,
-  "releasePageUrl": "https://github.com/tyanken1-tech/moriya-signage/releases/tag/v1.3.0",
+  "version": "2.0.0",
+  "displayVersion": "2.0",
+  "versionCode": 11,
+  "releasePageUrl": "https://github.com/tyanken1-tech/moriya-signage/releases/tag/v2.0.0",
   "apkName": "MoriyaSignage.apk",
-  "sha256": "8773ce7a033d11fce1607fd00f1387f496e14ba613415c1c0f2cde0479e9f9e1",
-  "publishedAt": "2026-10-02T09:30:58.183Z"
+  "sha256": "9901b6e8c5a99823c0fbcc1fbcc508717f4087d57605be0021eb3539db11aee8",
+  "publishedAt": "2026-10-10T14:39:17.064Z"
 }
